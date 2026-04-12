@@ -1,19 +1,12 @@
-# Nuxt.js
+<p align="center"><img src="logo.png" alt="nuxtjs-hello-world" width="120"></p>
 
-<p align="center"><img src="logo.png" alt="Nuxt.js" width="120"></p>
-
-
-[![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com)
-[![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/nuxtjs-hello-world/actions)
-[![License](https://img.shields.io/github/license/stackblaze-templates/nuxtjs-hello-world)](LICENSE)
+# Nuxt.js [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/nuxtjs-hello-world/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/nuxtjs-hello-world)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
 
 A Vue.js framework for building full-stack web applications. Nuxt provides server-side rendering, static generation, and a powerful module ecosystem.
 
 > **Credits**: Built on [Nuxt.js](https://nuxt.com) by [NuxtLabs](https://nuxtlabs.com). All trademarks belong to their respective owners.
 
 ## Deploy on StackBlaze
-
-[![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
 
 This template includes a `stackblaze.yaml` for one-click deployment on [StackBlaze](https://stackblaze.com).
 
