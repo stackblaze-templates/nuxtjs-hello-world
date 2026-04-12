@@ -1,11 +1,35 @@
-# README
+# Nuxt.js
 
-This is a [NuxtJS](https://nuxtjs.org/) [Hello world](https://github.com/nuxt/nuxt.js/tree/dev/examples/hello-world) example on [Stackblaze](https://stackblaze.com).
+[![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com)
+[![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/nuxtjs-hello-world/actions)
+[![License](https://img.shields.io/github/license/stackblaze-templates/nuxtjs-hello-world)](LICENSE)
 
-The app in this repo is deployed at [https://hello-nuxt.onstackblaze.com](https://hello-nuxt.onstackblaze.com).
+A Vue.js framework for building full-stack web applications. Nuxt provides server-side rendering, static generation, and a powerful module ecosystem.
 
-## Deployment
+> **Credits**: Built on [Nuxt.js](https://nuxt.com) by [NuxtLabs](https://nuxtlabs.com). All trademarks belong to their respective owners.
 
-See https://stackblaze.com/docs/deploy-nuxtjs for quick and easy deployment instructions.
+## Deploy on StackBlaze
 
-Use the `main` branch of this repository for deploying as a Node web service and the `static` branch for deploying as a static site.
+[![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
+
+This template includes a `stackblaze.yaml` for one-click deployment on [StackBlaze](https://stackblaze.com).
+
+## Local Development
+
+```bash
+docker compose up
+```
+
+See the project files for configuration details.
+
+---
+
+### Maintained by [StackBlaze](https://stackblaze.com)
+
+This template is actively maintained by StackBlaze. We perform **weekly automated checks** to ensure:
+
+- **Up-to-date dependencies** — frameworks, libraries, and base images are kept current
+- **Security scanning** — continuous monitoring for known vulnerabilities and CVEs
+- **Best practices** — configurations follow current recommendations from upstream projects
+
+Found an issue? [Open a ticket](https://github.com/stackblaze-templates/nuxtjs-hello-world/issues).
