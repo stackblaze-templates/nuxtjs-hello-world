@@ -1,4 +1,4 @@
-# Nuxt.js [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/nuxtjs-hello-world/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/nuxtjs-hello-world)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
+# Nuxt.js [![Version](https://img.shields.io/badge/version-3-00dc82)](https://github.com/stackblaze-templates/nuxtjs-hello-world) [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/nuxtjs-hello-world/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/nuxtjs-hello-world)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
 
 <p align="center"><img src="logo.png" alt="nuxtjs-hello-world" width="120"></p>
 
