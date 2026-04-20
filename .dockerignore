@@ -1,0 +1,15 @@
+.git
+.github
+node_modules
+.nuxt
+dist
+*.log
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.p12
+*.pfx
+.DS_Store
+Thumbs.db
